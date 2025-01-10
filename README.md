@@ -1,6 +1,6 @@
 # Bionic-hand-Gesture-Controlled
 
-This project consists of a 3D printed boinic hand controlled by the movents of a real hand, on which the glove is to be worn. It can easily be clasified into two components the physical hand to be controlled and the glove to controll it. 
+This project consists of a 3D printed boinic hand controlled by the movents of a real hand, on which the glove is to be worn. It can easily be clasified into two components the physical hand to be controlled and the glove to control it. 
 
 ![Physical model](https://github.com/ShivamJha1808/Bionic-hand-Gesture-Controlled/assets/96729576/c1f6d492-af57-48ac-9987-0c487c3c2370)
 
